@@ -33,21 +33,21 @@ def add(a: int, b: int) -> int:
 if __name__ == '__main__':
     print(add(99,55))
 ```
-https://github.com/caravan4eg/experiment
+[GitHub]: https://github.com/caravan4eg/experiment
 
 ## 6. Experience 
 https://github.com/caravan4eg/web_research
-https://github.com/caravan4eg/web_scraping/blob/master/icetrade_BS.py
+[GitHub]: https://github.com/caravan4eg/web_scraping/blob/master/icetrade_BS.py
 
 ## 7. Education
 * 1997 - Belarusian State University of Informatics and Radioelectronics, Belarus, Minsk
 FVT / Computing machines, complexes, systems and networks, engineer systemotechnik
 
-##7.1 Courses
+## 7.1 Courses
 * Coursera Python Crash Course
-https://www.coursera.org/account/accomplishments/verify/2CZFWG54923G
+[Coursera Python Crash Course]: https://www.coursera.org/account/accomplishments/verify/2CZFWG54923G
 * Stepik Python Course
-https://drive.google.com/open?id=1yMz7NpfWJ8uKAmhC7-cH36fCtwv7YLoU
+[Stepik Python Course]: https://drive.google.com/open?id=1yMz7NpfWJ8uKAmhC7-cH36fCtwv7YLoU
 
 ## 8. English 
 I use English at work, often read and listen in English, lissen to english films.
