@@ -30,6 +30,8 @@ Becouse of it I'm going to study frontend development.
 ```python
 def add(a: int, b: int) -> int:
     return a + b
+if __name__ == '__main__':
+    print(add(99,55))
 ```
 https://github.com/caravan4eg/experiment
 
