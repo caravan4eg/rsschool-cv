@@ -42,6 +42,8 @@ https://github.com/caravan4eg/web_scraping/blob/master/icetrade_BS.py
 ## 7. Education
 * 1997 - Belarusian State University of Informatics and Radioelectronics, Belarus, Minsk
 FVT / Computing machines, complexes, systems and networks, engineer systemotechnik
+
+##7.1 Courses
 * Coursera Python Crash Course
 https://www.coursera.org/account/accomplishments/verify/2CZFWG54923G
 * Stepik Python Course
