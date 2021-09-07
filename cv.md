@@ -21,7 +21,6 @@ I have never worked as a programmer, I have experience in developing pet project
 ## 4. Skills
 
 During my study of programming, I acquired the following skills:
-
 - HTML/CSS
 - VScode
 - Python, Django
