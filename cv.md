@@ -63,4 +63,4 @@ During the COVID-19 pandemic, a system was developed to process data related to 
 
 ## 8. Languages
 
-I read English a lot. The level of language proficiency is at the B1 level. On frequent business trips, I learned Polish, I understand a little German and French.
+I read English a lot. The level of language proficiency is at the B1 level. On frequent business trips, I learned Polish, I understand a little French and German.
